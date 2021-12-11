@@ -1,1 +1,1 @@
-###Elite
+Ich bin besser als ihr.
