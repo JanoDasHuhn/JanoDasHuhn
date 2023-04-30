@@ -31,6 +31,7 @@ I would like to do an apprenticeship as a software developer in Germany
 *⌨Operating Systems*
 - Windows
 - Debian 
+- EndeavourOS
 
 *Browsers*
 - Google Chrome
