@@ -39,10 +39,7 @@ I would like to do an apprenticeship as a software developer in Germany
 - Opera GX
 - Brave
 
-*✉️ Contact*
 
-- [Twitter](https://twitter.com/JanoDasTweet)
-- Discord: JanoDasHuhn#6969
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JanoDasHuhn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
