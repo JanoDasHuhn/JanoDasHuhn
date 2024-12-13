@@ -19,25 +19,16 @@ I would like to do an apprenticeship as a software developer in Germany
 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-*🖊Editors*
-- Visual Studio Code
-- IntelliJ IDEA
-- Rider
 
-*☑️Version Control*
-- GitHub
-- Git
 
 *⌨Operating Systems*
+- Ubuntu
 - Windows
 - Debian 
 - EndeavourOS
 - macOS
 
-*Browsers*
-- Google Chrome
-- Opera GX
-- Brave
+
 
 
 
